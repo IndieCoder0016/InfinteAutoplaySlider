@@ -1,1 +1,1 @@
-this repository contains source code for script demostrated in Youtube video :https://youtu.be/zvTXjohja64
+This repository contains source code for script demostrated in Youtube video :https://youtu.be/zvTXjohja64
